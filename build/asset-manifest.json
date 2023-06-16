@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b6a22ece.css",
+    "main.js": "/static/js/main.bdcfd213.js",
+    "static/media/pulse-page-empty-state.svg": "/static/media/pulse-page-empty-state.f5f9c287d70b7ebf1279f364464ca1db.svg",
+    "static/media/Creation.png": "/static/media/Creation.3bcb9798088414016856.png",
+    "static/media/welcome-to-monday.jpg": "/static/media/welcome-to-monday.7b922dfc6adfcc34612f.jpg",
+    "index.html": "/index.html",
+    "main.b6a22ece.css.map": "/static/css/main.b6a22ece.css.map",
+    "main.bdcfd213.js.map": "/static/js/main.bdcfd213.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6a22ece.css",
+    "static/js/main.bdcfd213.js"
+  ]
+}
